@@ -1,0 +1,1 @@
+file_link = "https://vk.com/gdsc_omsk"
